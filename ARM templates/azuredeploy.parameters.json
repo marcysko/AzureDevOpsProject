@@ -15,7 +15,7 @@
         "value": "P2ssw0rd"
       },
       "MHC_DBPasswordForTest": {
-        "value": null
+        "value": "P2ssw0rd"
       },
       "MHC_DBName": {
         "value": "MyHealthClinicDB"
@@ -36,7 +36,7 @@
         "value": "0"
       },
       "EnableRules": {
-        "value": null
+        "value": false
       }
     }
   }
