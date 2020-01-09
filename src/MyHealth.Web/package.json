@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "gulp",
-    "postinstall": "bower install --config.interactive=false & gulp"
+    "postinstall": "bower install gulp"
   },
   "devDependencies": {
     "babelify": "^6.3.0",
